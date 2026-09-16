@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.env
+
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Dataset and generated files
+data/jobs.csv
+data/clean_jobs.csv
+data/ner_training_data.json
+data/ner_prediction_results.csv

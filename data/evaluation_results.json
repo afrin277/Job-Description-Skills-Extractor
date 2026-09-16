@@ -1,0 +1,12 @@
+{
+    "project": "Job Description Skills Extractor",
+    "model_type": "spaCy EntityRuler",
+    "entity_type": "SKILL",
+    "dataset_records": 28498,
+    "true_positive": 42468,
+    "false_positive": 118509,
+    "false_negative": 180517,
+    "precision": 0.2638,
+    "recall": 0.1905,
+    "f1_score": 0.2212
+}
