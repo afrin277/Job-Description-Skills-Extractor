@@ -43,7 +43,11 @@ NLP_PROJECT/
 │   └── app.py
 │
 ├── data/
+│   ├── clean_jobs.csv
 │   ├── evaluation_results.json
+│   ├── jobs.csv
+│   ├── ner_prediction_results.csv
+│   ├── ner_training_data.json
 │   └── skill_dictionary.json
 │
 ├── models/
@@ -54,10 +58,11 @@ NLP_PROJECT/
 │   ├── 02_ner_skill_extraction.ipynb
 │   └── 03_testing_and_evaluation.ipynb
 │
-├── train_ner.py
+├── README.md
 ├── requirements.txt
+├── train_ner.py
 ├── .gitignore
-└── README.md
+└── venv/
 ```
 
 ## 🔄 Project Workflow
